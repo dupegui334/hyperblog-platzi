@@ -1,15 +1,15 @@
 body
 {
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0000ff;
     font-size: 16px;
     padding: 0;
 }
 
 #cabecera
 {
-    background: #5adc;
+    background: #0ff;
     color: white;
     padding: 0.5em ;
     margin: 0;
