@@ -6,6 +6,23 @@ body
     font-size: 16px;
     padding: 0;
 }
+
+#cabecera
+{
+    background: #5adc;
+    color: white;
+    padding: 0.5em ;
+    margin: 0;
+    font-weight: bold;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8rem;
+}
+
 #container
 {
     width: 70%;
@@ -13,9 +30,15 @@ body
     text-align: left;
     border: 1px solid saddlebrown;
     margin: auto;
+    box-shadow: 31px 17px 22px 8px rgba(54,120,156,0.81);
 }
 
 #container h1{
     font-size: 20px;
 
+}
+
+#post
+{
+    padding: 1em;
 }
