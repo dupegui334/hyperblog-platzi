@@ -2,16 +2,16 @@ body
 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: blueviolet;
+    color: black;
     font-size: 16px;
     padding: 0;
 }
 
 #cabecera
 {
-    background: #0ff;
+    background: darkblue;
     color: white;
-    padding: 0.5em ;
+    padding: 0.7em ;
     margin: 0;
     font-weight: bold;
 }
@@ -21,6 +21,12 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8rem;
+}
+
+#cabecera #logo
+{
+    width: 100px;
+    vertical-align: middle;
 }
 
 #container
